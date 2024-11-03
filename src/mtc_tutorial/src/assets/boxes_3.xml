@@ -1,0 +1,119 @@
+<mujoco>
+	<worldbody>
+		<body pos="-0.9 -0.11 0.11">
+			<geom type="box" size="0.4600000000000001 0.18 0.11" rgba="0 0 0 0.5"/>
+		</body>
+		<body pos="-0.49600000000000005 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.601 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.6950000000000001 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.806 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.893 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.9949999999999999 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-1.1059999999999999 -0.11 0.25">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.5589999999999999 -0.11 0.37">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.643 -0.11 0.37">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.7589999999999999 -0.11 0.37">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.843 -0.11 0.37">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.946 -0.11 0.37">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-1.059 -0.11 0.37">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.5979999999999999 -0.11 0.49">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.7090000000000001 -0.11 0.49">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.806 -0.11 0.49">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.8959999999999999 -0.11 0.49">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-1.002 -0.11 0.49">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.651 -0.11 0.61">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.7589999999999999 -0.11 0.61">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.8479999999999999 -0.11 0.61">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.946 -0.11 0.61">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.7090000000000001 -0.11 0.73">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.796 -0.11 0.73">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.9039999999999999 -0.11 0.73">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.742 -0.11 0.85">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.841 -0.11 0.85">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+		<body pos="-0.7989999999999999 -0.11 0.97">
+			<joint type="free"/>
+			<geom type="box" solimp=".999 .999 .0001" solref=".0001 1" size="0.03 0.03 0.03" rgba="0.9 0 0 1"/>
+		</body>
+	</worldbody>
+</mujoco>
