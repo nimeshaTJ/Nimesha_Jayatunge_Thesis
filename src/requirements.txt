@@ -1,0 +1,6 @@
+rclpy==3.3.14 
+mujoco==3.2.3
+numpy==1.21.5
+moveit-configs-utils==2.5.5
+moveit-msgs==2.2.1
+scipy==1.8.0
