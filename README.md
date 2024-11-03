@@ -26,9 +26,10 @@ cd Nimesha_Jayatunge_Thesis
 - moveit-configs-utils==2.5.5
 - moveit-msgs==2.2.1
 - scipy==1.8.0
+
 To install all the requirements:
 ```bash
-   pip install -r src/requirements.txt
+pip install -r src/requirements.txt
 ```
 
 ### Building the Workspace
@@ -61,7 +62,7 @@ The following packages are used in this project:
 See [mtc_tutorial](src/mtc_tutorial/README.md) for details on how to run
 
 ## Acknowledgements
-This project makes use the following packages from [Sohaib-Snouber](https://github.com/Sohaib-Snouber):
+This project makes use of the following packages from [Sohaib-Snouber](https://github.com/Sohaib-Snouber):
 - [mtc_tutorial](https://github.com/Sohaib-Snouber/master_project_ws/tree/main/src/mtc_tutorial)
 - [UR5e_robotiq_gripper_RViz](https://github.com/Sohaib-Snouber/master_project_ws/tree/main/src/UR5e_robotiq_gripper_RViz)
 - [robot_moveit_config](https://github.com/Sohaib-Snouber/master_project_ws/tree/main/src/robot_moveit_config)
