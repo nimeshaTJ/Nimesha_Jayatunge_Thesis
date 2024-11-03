@@ -10,7 +10,7 @@ Examining the suitability of MuJoCo physics simulation for RL training. This pro
 - ROS2 Humble
 
 ### Installing ROS2 Humble
-Follow the official instructions to install ROS2 Humble from [here](https://docs.ros.org/en/humble/Installation.html). MoveIt2 Humble is included in this repo.
+Follow the official instructions to install ROS2 Humble from [here](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Install-Binary.html#system-requirements). MoveIt2 Humble is included in this repo.
 
 ### Cloning the Repository
 Clone this repository to your local machine:
