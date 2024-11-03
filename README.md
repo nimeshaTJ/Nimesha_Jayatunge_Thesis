@@ -1,4 +1,4 @@
-# Master Project Workspace
+# Nimesha Jayatunge Thesis
 
 ## Overview
 Examining the suitability of MuJoCo physics simulation for RL training. This project makes use of the ROS2 MoveIt Task Constructor for controlling a UR5e arm + Robotiq 2F-85 gripper in MuJoCo. 
