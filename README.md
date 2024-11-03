@@ -33,17 +33,22 @@ pip install -r src/requirements.txt
 ```
 
 ### Building the Workspace
-1. Install dependencies:
+1. Source ROS install:
+   ```bash
+   source /opt/ros/humble/setup.bash
+   ```
+
+2. Install dependencies:
    ```bash
    rosdep install --from-paths src --ignore-src -r -y
    ```
 
-2. Build the workspace:
+3. Build the workspace:
    ```bash
    colcon build --executor sequential
    ```
 
-3. Source the workspace:
+4. Source the workspace:
    ```bash
    source install/setup.bash
    ```
