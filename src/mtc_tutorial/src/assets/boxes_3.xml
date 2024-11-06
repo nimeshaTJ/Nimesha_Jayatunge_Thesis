@@ -1,7 +1,9 @@
 <mujoco>
 	<worldbody>
+		<light diffuse=".5 .5 .5" pos="0 0 3" dir="0 0 -1" />
+        <geom type="plane" size="20 20 0.1" friction = "3 3 .05" rgba="0 .9 0 1" />
 		<body pos="-0.9 -0.11 0.11">
-			<geom type="box" size="0.4600000000000001 0.18 0.11" rgba="0 0 0 0.5"/>
+			<geom type="box" size="0.4600000000000001 0.18 0.11" rgba="0.1 0.1 1 1"/>
 		</body>
 		<body pos="-0.49600000000000005 -0.11 0.25">
 			<joint type="free"/>

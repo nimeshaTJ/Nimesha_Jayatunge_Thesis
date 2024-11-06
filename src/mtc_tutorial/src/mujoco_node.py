@@ -31,6 +31,13 @@ class MujocoController(Node):
 		self.read_file_path = read_file_path
 		self.record_mode = record_mode
 
+		# Setting up camera angles
+		self.viewer.cam.lookat[0] = -0.1
+		self.viewer.cam.lookat[1] = 0.1
+
+		self.viewer.cam.elevation = -30  
+		self.viewer.cam.azimuth = 35
+
 		self.data.ctrl[:] = [0,-np.pi/2,0,-np.pi/2,0,0,0]
 		self.ctrl_angles = self.data.ctrl.copy()
 		self.joint_angles = self.data.qpos[[-14,-13,-12,-11,-10,-9,-4]]
